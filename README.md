@@ -17,6 +17,10 @@
 
 # Installation
 
+リポジトリからダウンロード
+```bash
+git clone https://github.com/Takumi1b/Life_Game_Editor.git
+```
 Handy Graphic (version 0.8.3)は以下よりダウンロード
 
 [Handy Graphic](http://www.cc.kyoto-su.ac.jp/~ogihara/Hg/)
