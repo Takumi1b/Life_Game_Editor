@@ -32,6 +32,7 @@ hgcc -o main life_game_editor.c
 ./main
 ```
 使い方
+
 64×64のドットマスにクリックしてドットを打ち込みます。"Command"欄の"Start"をクリックするとライフゲームが開始されます。
 
 # Note
